@@ -22,7 +22,7 @@ check out the project
 $ git clone https://github.com/cyan21/vagrant_openldap.git
 ```
 
-## How-to use this code
+## How-to 
 
 unzip the archive which contains the ldif files and helper files
 
@@ -36,3 +36,5 @@ spin up your vagrant box
 ```
 $ vagrant up
 ```
+
+> check the /root/memo_ldap.txt for more info 
