@@ -6,7 +6,7 @@ this project will perform the following steps:
 *  set up the "MemberOf" overlays
 *  create a forest "dc=jfrog,dc=com"
 *  create 3 groups : soleng, avengers, justice_league
-*  add some users in each groups
+*  add some users in each group
 
 OS : centos7
 
@@ -24,7 +24,7 @@ $ git clone https://github.com/cyan21/vagrant_openldap.git
 
 ## How-to 
 
-unzip the archive which contains the ldif files and helper files
+unzip the tarball which contains the ldif files and helper files
 
 ```
 $ cd vagrant_openldap
